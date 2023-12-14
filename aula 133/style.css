@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+span{
+    font-size: 20px;
+    color:red;
+}
+canvas{
+    background:paleturquoise;
+}
